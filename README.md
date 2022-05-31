@@ -42,5 +42,9 @@ This web application system will have five pages.Below are the features and func
 From Start the website, user need to register and login in login and register .php. The data will stored in database at student table.Not just that, the database will contain at least 5 table for the data from all pages. After that, user will proceed with login.php to login the website using matric number and password. The data will retrieved from database. Next, the view contain homepage, attendance page and assignment page and at least 1 additional page for profile page. All the view page will collect user data and retrieve data from database. The model will synchronize database data with form format. The view section will interact with model and will directly interact with database either when user change their data or key in their data. Additionally ,controllers will handle and fill the model with data that has been modified or updated. The website will contain at least 3 controller . Next, route will help to redirect from page to page or from .php to .php and  will map the URL to a particular action when the user start to use the application, For example, when the user click signup button, the page will redirect to register page.
 
 
+<h2) ER Diagram</h2>
+
+![WhatsApp Image 2022-05-31 at 2 14 00 PM](https://user-images.githubusercontent.com/37135726/171105986-8ed239da-62a7-4e79-aaba-82b219e93651.jpeg)
+
 
 
