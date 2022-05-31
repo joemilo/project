@@ -60,19 +60,19 @@ Furthermore, after successfully login the object will go through to the homepage
 <br>
 <h2>Mock-up</h2>
 
-Login page
+Login page<br>
 ![image](https://user-images.githubusercontent.com/37135726/171107178-2b9fe6ec-2ab4-442a-a81e-fc3ba4bb8971.png)
 
-Homepage
+Homepage<br>
 ![image](https://user-images.githubusercontent.com/37135726/171107310-3e3eaf94-b0d0-4f80-a9a7-32e044928ea1.png)
 
-Student profile page 
+Student profile page <br>
 ![image](https://user-images.githubusercontent.com/37135726/171107382-2ef7365c-d928-432c-ae40-1347e1fb421a.png)
 
-Attendence page
+Attendence page<br>
 ![image](https://user-images.githubusercontent.com/37135726/171107495-3569ce4e-1ffd-407c-9482-292c21011b66.png)
 
-Task page
+Task page<br>
 ![image](https://user-images.githubusercontent.com/37135726/171107568-c277d9e4-d67d-4b14-a231-9a2eee9ad015.png)
 
 
