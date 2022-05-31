@@ -13,10 +13,10 @@ A StudPort is a portal exclusively for student. The student portal is a gateway 
 
 <h2>Objective</h2><br>
 The Studport provides the students with the details about the students’ achievements and the student can also have a chit chat with their lecturer. So, the objective for this StudPort is to: -
--	Make the students ease to have access for their online courses<br>
--	Students can make attendances and see their record of attendances<br>
--	Perform as a platform for students to reach out their lecturers<br>
--	Make the students to have access to their own profiles <br>
+&#x2022;Make the students ease to have access for their online courses<br>
+&#x2022;Students can make attendances and see their record of attendances<br>
+&#x2022;Perform as a platform for students to reach out their lecturers<br>
+&#x2022;Make the students to have access to their own profiles <br>
 
 <h2>Features and functionalities of the proposed web application.</h2>
 
@@ -27,12 +27,12 @@ This web application system will have five pages.Below are the features and func
 1. Login Page : Students can login into their account that has been created by inserting their matric no and password.
 2. Homepage : The student homepage dashboard will show the overview of the website.There were several features that will be included in this homepage section :
 
-	List of student subjects enrolment.<br>
-	Academic calender.<br>
-	Study week/Lecture week.<br>
-	Class timetable.<br>
-	Lecturer details.<br>
-	Important bulletin.<br>
+&#x2022;List of student subjects enrolment.<br>
+&#x2022;Academic calender.<br>
+&#x2022;Study week/Lecture week.<br>
+&#x2022;Class timetable.<br>
+&#x2022;Lecturer details.<br>
+&#x2022;Important bulletin.<br>
 3. Student Outline Page : This page will displaying personal information about the students.For example : Full name,Student ID,Email address and university address.<br>
 4. Attendance Page : Students are able to record and check their own attendance according to the subjects they enrolled throughout the semester.<br>
 5. Piece of work Page : Students are able to check the due dates of the task that has been assign to them by the lecturer and they submit their work within the same pages.<br>
