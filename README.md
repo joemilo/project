@@ -8,7 +8,7 @@ Muhammad Khairul Muslim bin kamaruddin 2015803<br>
 <h1>Project Title</h1> 
 <h1>“ StudPort “ stands for Student Portal</h1>
 
-Introduction
+<h2>Introduction</h2><br>
 A StudPort is a portal exclusively for student. The student portal is a gateway to help students focus on mainly objective in study such as attendance, online courses, assignments and others which is useful for doing student activities. Online student portal is a web application which is useful for learners to choose right information. StudPort works like, initially the one who needs to get access only after his or her registration to the application. Before the student get to use the portal, they need to register first and the admin will check the correctness of information provided by the student. Only certified student that have been registered that can use the StudPort. 
 
 Objective
