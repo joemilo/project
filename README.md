@@ -52,6 +52,7 @@ From Start the website, user need to register and login in login and register .p
 <h2>Sequence Diagram</h2>
 
 ![image](https://user-images.githubusercontent.com/37135726/171106923-5a25d22a-54bf-4953-9839-2b4589acb974.png)
+<br>
 
      Sequence diagrams show how objects in the system interact with one another and it shows the sequence of the system. In our system there are seven objects that are represented in the rectangle boxes. The process begins when the user that is represented by the actor key in their login details that they have and it will pass to the database part to check whether the details is in the database or not. Moreover, it will then pass to the verification part to check whether the details are correct or not. The alternative happens when the details are correct, it will send the message to the user in the login page while if it is incorrect and it will pass the warning message in the login page to the users.
 
