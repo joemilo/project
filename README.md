@@ -20,6 +20,9 @@ The Studport provides the students with the details about the students’ achiev
 &#x2022;Perform as a platform for students to reach out their lecturers<br>
 &#x2022;Make the students to have access to their own profiles <br>
 
+<h2>Scope Of Study</h2><br>
+
+
 
 
 <h1>Project Title</h1> 
