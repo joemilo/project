@@ -32,7 +32,7 @@ The scope for Student Portal is very broad in terms of the student study managem
 -Time.The timeline for developing was short due.This was due to a lot of time in researching the requirements before jumping to the development of the project.<br>
 
 <h2>Conclusion</h2><br>
-This project was aimed at designing and developing a student portal for the student to manage all the matters regarding their study.The aim and objectives of this project has been actualized.Although there were challenges during the coding/programming but a way was discovered to solve them.The ultimate achievements are : the portal has been able to receive student informations,classes,attendance and task informations.There are much more can be done for this project and we have some limitation as it is not fully automated in functioning.This system can be utilized in any institution of learning and StudPort System is hoped to perform very well in enhancing the quality of our classs final project.<br>
+This project was aimed at designing and developing a student portal for the student to manage all the matters regarding their classes.The aim and objectives of this project has been actualized.Although there were challenges during the coding/programming but a way was discovered to solve them.The ultimate achievements are : the portal has been able to receive student informations,classes,attendance and task informations.There are much more can be done for this project and we have some limitation as it is not fully automated in functioning.This system can be utilized in any institution of learning and StudPort System is hoped to perform very well in enhancing the quality of our classs final project.<br>
 
 
 <h1>Project Title</h1> 
