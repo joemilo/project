@@ -21,8 +21,16 @@ The Studport provides the students with the details about the students’ achiev
 &#x2022;Make the students to have access to their own profiles <br>
 
 <h2>Scope Of Study</h2><br>
+The scope for Student Portal is very broad in terms of the student study management system.There are two parts in developing this project.This project will involve the knowledge based on : <br>
 
+-Web design and development<br>
+-Database design and management <br>
 
+<h2>Problem Face</h2><br>
+-
+
+<h2>Conclusion</h2><br>
+This project was aimed at designing and developing a student portal for the student to manage the processes of their study.The aim and objectives of this project has been actualized.Although there were challenges during the coding/programming but a way was discovered to solve them.The ultimate achievements are : the portal has been able to receive student informations regarding themselves and their subjects and classes.This system can be utilized in any institution of learning and StudPort System is hoped to perform very well in enhancing the quality of our classs final project.<br>
 
 
 <h1>Project Title</h1> 
