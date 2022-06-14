@@ -14,7 +14,7 @@ A StudPort is a portal exclusively for student. The student portal is a gateway 
 
 <h2>Objective</h2><br>
 The Studport provides the students with the details about the students’ achievements and the student can also have a chit chat with their lecturer. So, the objective for this StudPort is to: -
-&#x2022;Make the students ease to have access for their online courses<br>
+<br>&#x2022;Make the students ease to have access for their online courses<br>
 &#x2022;Students can make attendances and see their record of attendances<br>
 &#x2022;Perform as a platform for students to reach out their lecturers<br>
 &#x2022;Make the students to have access to their own profiles <br>
